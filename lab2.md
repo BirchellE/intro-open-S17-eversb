@@ -21,3 +21,6 @@ https://github.com/JohnBehnke/RPI_Tours_iOS | Yes | MIT License
 https://github.com/cwilliamson226/secondstring | Yes | MIT License
 https://github.com/cisprague/astro.iq | Yes | MIT License
 https://github.com/fullscreenshenanigans/FullScreenPokemon | Yes | MIT License
+
+## 10.
+The project I am choosing for this course will be the program to disguise browsing patterns. The users would be anybody concerned about their data being used for targeted ads and other instances of google selling data. This would mainly be people concerned with privacy and the ethics of offering "free" services for the price of their personal data. I will choose the MIT License for this project as it seems pretty standard for most of the open source projects I have seen, and I want the license to be very open for collaboration and so it can spread easier. Additionally, I don't need to worry about attempting to make it commercial as I would worry about lawsuits, as everyone saw the trouble AdBlock has and this project would be in the same vein.
