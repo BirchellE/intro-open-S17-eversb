@@ -6,6 +6,7 @@ https://github.com/BirchellE/Exercise01
 
 ![alt](images/gitk.png)
 ![alt](images/gitk-all.png)
+![alt](images/git-log.png)
 
 ###Part 2
 
