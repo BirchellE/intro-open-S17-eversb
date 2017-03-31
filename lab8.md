@@ -11,3 +11,5 @@ I learned how expansive some of the manuals of the largest open source libraries
 ## Bug Submission
 
 ![alt](images/support.png)
+
+![alt](images/support2.png)
